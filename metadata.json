@@ -1,0 +1,6 @@
+{
+  "name": "Stroke Guidelines 2026",
+  "description": "Hướng dẫn khuyến cáo xử trí đột quỵ 2026, thang điểm lâm sàng NIHSS/ABCD2/CHA2DS2-VASc, lưu đồ cấp cứu và thực hành y khoa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
